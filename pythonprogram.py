@@ -1,0 +1,2 @@
+from pythonproject import*
+project()
